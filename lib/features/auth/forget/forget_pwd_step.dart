@@ -1,0 +1,1 @@
+enum ForgetPwdStep { email, password }
